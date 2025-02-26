@@ -1,0 +1,43 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  body {
+    background-image: url("download.png");
+    opacity: 1;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+  a {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 340px;
+    width : 40%;
+  }
+  
+p {
+    margin-top: 50px;
+    text-align: center;
+    font-family: 25p;
+    text-shadow: 2px 2px 5px rgb(116, 116, 116);
+}
+#w {
+    text-align: left;
+}
